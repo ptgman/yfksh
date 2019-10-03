@@ -3,7 +3,7 @@
 # Python実行環境の構築
 PYTHON=/usr/bin/python3
 COMMON_DIR=~/hostpg
-MEIGAR_CSV=us-meigara.csv
+MEIGARA_CSV=us-meigara.csv
 
 if [ -e yfkenv ]; then
     rm -rf ~/yfkenv
@@ -23,4 +23,4 @@ pip install numpy pandas yfinance
 mkdir $COMMON_DIR/yfk_{csv,meigara,bat}
 
 SCR_DIR=$(cd $(dirname $0); pwd)
-cp $COMMON_DIR/yfk_meigara/$MEIGARA_CSV
+cp $SCR_DIR/$MEIGARA_CSV $COMMON_DIR/yfk_meigara/
