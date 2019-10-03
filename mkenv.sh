@@ -4,6 +4,7 @@
 PYTHON=/usr/bin/python3
 COMMON_DIR=~/hostpg
 MEIGARA_CSV=us-meigara.csv
+SCR_DIR=$(cd $(dirname $0); pwd)
 
 if [ -e yfkenv ]; then
     rm -rf ~/yfkenv
@@ -20,7 +21,6 @@ pip install wheel
 pip install numpy pandas yfinance
 deactivate
 
-SCR_DIR=$(cd $(dirname $0); pwd)
 # make directories in Windows
 rm -rf $COMMON_DIR/*
 mkdir $COMMON_DIR/yfk_{csv,meigara,bat}
