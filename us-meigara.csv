@@ -1,0 +1,938 @@
+﻿銘柄コード(Ticker Symbol),銘柄名(Company Name),市場(Market)
+AWR,American States Water,NYSE
+DOV,Dover Corp.,NYSE
+GPC,Genuine Parts Co.,NYSE
+NWN,Northwest Natural Gas,NYSE
+PG,Procter & Gamble Co.,NYSE
+PH,Parker-Hannifin Corp.,NYSE
+EMR,Emerson Electric,NYSE
+MMM,3M Company,NYSE
+CINF,Cincinnati Financial,NASDAQ
+JNJ,Johnson & Johnson,NYSE
+KO,Coca-Cola Company,NYSE
+LOW,Lowe's Companies,NYSE
+CL,Colgate-Palmolive Co.,NYSE
+FMCB,Farmers & Merchants Bancorp,
+LANC,Lancaster Colony Corp.,NASDAQ
+NDSN,Nordson Corp.,NASDAQ
+HRL,Hormel Foods Corp.,NYSE
+ABM,ABM Industries Inc.,NYSE
+CWT,California Water Service,NYSE
+FRT,Federal Realty Inv. Trust,NYSE
+SJW,SJW Corp.,NYSE
+SWK,Stanley Black & Decker,NYSE
+TGT,Target Corp.,NYSE
+TR,Tootsie Roll Industries,NYSE
+CBSH,Commerce Bancshares,NASDAQ
+SCL,Stepan Company,NYSE
+CTWS,Connecticut Water Service,NASDAQ
+FUL,H.B. Fuller Company,NYSE
+MO,Altria Group Inc.,NYSE
+NFG,National Fuel Gas,NYSE
+SYY,Sysco Corp.,NYSE
+BKH,Black Hills Corp.,NYSE
+CSVI,Computer Services Inc.,
+GWW,W.W. Grainger Inc.,NYSE
+LEG,Leggett & Platt Inc.,NYSE
+MSA,MSA Safety Inc.,NYSE
+PPG,PPG Industries Inc.,NYSE
+UVV,Universal Corp.,NYSE
+BDX,Becton Dickinson & Co.,NYSE
+KMB,Kimberly-Clark Corp.,NYSE
+PEP,PepsiCo Inc.,NASDAQ
+TNC,Tennant Company,NYSE
+GRC,Gorman-Rupp Company,NYSE
+HP,Helmerich & Payne Inc.,NYSE
+MSEX,Middlesex Water Co.,NASDAQ
+NUE,Nucor Corp.,NYSE
+SPGI,S&P Global Inc.,NYSE
+VFC,VF Corp.,NYSE
+WMT,Wal-Mart Inc.,NYSE
+ED,Consolidated Edison,NYSE
+ITW,Illinois Tool Works,NYSE
+RPM,RPM International Inc.,NYSE
+TDS,Telephone & Data Sys.,NYSE
+ADM,Archer Daniels Midland,NYSE
+ADP,Automatic Data Proc.,NASDAQ
+MGEE,MGE Energy Inc.,NASDAQ
+RLI,RLI Corp.,NYSE
+UBSI,United Bankshares Inc.,NASDAQ
+WBA,Walgreens Boots Alliance Inc.,NASDAQ
+CSL,Carlisle Companies,NYSE
+MCD,McDonald's Corp.,NYSE
+PNR,Pentair Ltd.,NYSE
+CLX,Clorox Company,NYSE
+MDT,Medtronic plc,NYSE
+SHW,Sherwin-Williams Co.,NYSE
+BEN,Franklin Resources,NYSE
+CTBI,Community Trust Banc.,NASDAQ
+EV,Eaton Vance Corp.,NYSE
+ORI,Old Republic International,NYSE
+WEYS,Weyco Group Inc.,NASDAQ
+AFL,AFLAC Inc.,NYSE
+APD,Air Products & Chem.,NYSE
+SON,Sonoco Products Co.,NYSE
+XOM,ExxonMobil Corp.,NYSE
+CTAS,Cintas Corp.,NASDAQ
+ATO,Atmos Energy,NYSE
+BF-B,Brown-Forman Class B,
+T,AT&T Inc.,NYSE
+NC,NACCO Industries,NYSE
+UHT,Universal Health Realty Trust,NYSE
+BRC,Brady Corp.,NYSE
+DCI,Donaldson Company,NYSE
+EFSI,Eagle Financial Services,
+MKC,McCormick & Co.,NYSE
+TROW,T. Rowe Price Group,NASDAQ
+CVX,Chevron Corp.,NYSE
+MCY,Mercury General Corp.,NYSE
+SRCE,1st Source Corp.,NASDAQ
+TMP,Tompkins Financial Corp.,AMEX
+UGI,UGI Corp.,NYSE
+THFF,First Financial Corp.,NASDAQ
+NNN,National Retail Properties,NYSE
+ERIE,Erie Indemnity Company,NASDAQ
+JKHY,Jack Henry & Associates,NASDAQ
+TYCB,Calvin B. Taylor Bankshares Inc.,
+CBU,Community Bank System,NYSE
+CPKF,Chesapeake Financial Shares,
+GD,General Dynamics,NYSE
+MDU,MDU Resources,NYSE
+SEIC,SEI Investments Company,NASDAQ
+WABC,Westamerica Bancorp,NASDAQ
+ARTNA,Artesian Resources,NASDAQ
+BMI,Badger Meter Inc.,NYSE
+ECL,Ecolab Inc.,NYSE
+FELE,Franklin Electric Co.,NASDAQ
+MGRC,McGrath Rentcorp,NASDAQ
+PBCT,People's United Financial,NASDAQ
+UMBF,UMB Financial Corp.,NASDAQ
+WST,West Pharmaceutical Services,NYSE
+WTR,Aqua America Inc.,NYSE
+ATR,AptarGroup Inc.,NYSE
+BANF,BancFirst Corp. OK,NASDAQ
+CAT,Caterpillar Inc.,NYSE
+CB,Chubb Limited,NYSE
+CFR,Cullen/Frost Bankers,NYSE
+JW-A,John Wiley & Sons Inc.,
+LIN,Linde Plc,NYSE
+MDP,Meredith Corp.,NYSE
+O,Realty Income Corp.,NYSE
+PSBQ,PSB Holdings Inc.,
+ROP,Roper Technologies Inc.,NYSE
+SKT,Tanger Factory Outlet Centers,NYSE
+SYK,Stryker Corp.,NYSE
+TRI,Thomson Reuters Corp.,NYSE
+ALB,Albemarle Corp.,NYSE
+AOS,A.O. Smith Corp.,NYSE
+AROW,Arrow Financial Corp.,NASDAQ
+BRO,Brown & Brown Inc.,NYSE
+EBTC,Enterprise Bancorp Inc.,NASDAQ
+ESS,Essex Property Trust,NYSE
+EXPD,Expeditors International,NASDAQ
+NEE,NextEra Energy Inc.,NYSE
+ROST,Ross Stores Inc.,NASDAQ
+SBSI,Southside Bancshares,NASDAQ
+UBA,Urstadt Biddle Properties,NYSE
+UTX,United Technologies,NYSE
+CNI,Canadian National Railway,NYSE
+IBM,International Business Machines,NYSE
+LECO,Lincoln Electric Holdings,NASDAQ
+MATW,Matthews International,NASDAQ
+NIDB,Northeast Indiana Bancorp,
+PII,Polaris Industries,NYSE
+RNR,RenaissanceRe Holdings,NYSE
+CAH,Cardinal Health Inc.,NYSE
+CHD,Church & Dwight,NYSE
+ENB,Enbridge Inc.,NYSE
+FLIC,First of Long Island Corp.,NASDAQ
+NJR,New Jersey Resources,NYSE
+OZK,Bank OZK,NASDAQ
+TJX,TJX Companies Inc.,NYSE
+CCFN,CCFNB Bancorp Inc.,
+EPD,Enterprise Products Partners LP,NYSE
+GGG,Graco Inc.,NYSE
+SJM,J.M. Smucker Co.,NYSE
+WPC,W.P. Carey Inc.,NYSE
+YORW,York Water Company,NASDAQ
+CATC,Cambridge Bancorp,NASDAQ
+CHRW,C.H. Robinson Worldwide,NASDAQ
+CZFS,Citizens Financial Services,
+ES,Eversource Energy,NYSE
+FDS,Factset Research System Inc.,NYSE
+NWFL,Norwood Financial,NASDAQ
+PB,Prosperity Bancshares,NYSE
+RBCAA,Republic Bancorp KY,NASDAQ
+CASY,Casey's General Stores Inc.,NASDAQ
+EBMT,Eagle Bancorp Montana Inc.,NASDAQ
+FAST,Fastenal Company,NASDAQ
+LYBC,Lyons Bancorp Inc.,
+NKSH,National Bankshares,NASDAQ
+SJI,South Jersey Industries,NYSE
+VGR,Vector Group Ltd.,NYSE
+BKUTK,Bank of Utica,
+MMP,Magellan Midstream Partners LP,NYSE
+NUS,Nu Skin Enterprises Inc.,NYSE
+RBA,Ritchie Brothers Auctioneers Inc.,NYSE
+SO,Southern Company,NYSE
+AUBN,Auburn National Bancorp,NASDAQ
+BG,Bunge Limited,NYSE
+FLO,Flowers Foods,NYSE
+HDB,HDFC Bank Limited,NYSE
+LHX,L3Harris Technologies Inc,NYSE
+MCHP,Microchip Technology Inc.,NASDAQ
+MXIM,Maxim Integrated Products,NASDAQ
+PPL,PPL Corp.,NYSE
+RGLD,Royal Gold Inc.,NASDAQ
+THVB,Thomasville Bancshares Inc.,
+WRB,W.R. Berkley Corp.,NYSE
+ADI,Analog Devices Inc.,NASDAQ
+ANDE,Andersons Inc. (The),NASDAQ
+ATRI,Atrion Corp.,NASDAQ
+AVA,Avista Corp.,NYSE
+AXS,Axis Capital Holdings Ltd.,NYSE
+CASS,Cass Information Systems Inc.,NASDAQ
+CBRL,Cracker Barrel Old Country,NASDAQ
+DGICA,Donegal Group Inc. A,NASDAQ
+DGICB,Donegal Group Inc. B,NASDAQ
+FDX,FedEx Corp.,NYSE
+HCSG,Healthcare Services Group Inc.,NASDAQ
+IFF,International Flavors & Fragrances,NYSE
+LARK,Landmark Bancorp Inc.,NASDAQ
+MSFT,Microsoft Corp.,NASDAQ
+MSM,MSC Industrial Direct Co. Inc.,NYSE
+MYBF,Muncy Bank Financial Inc.,
+NHI,National Health Investors,NYSE
+NKE,Nike Inc.,NYSE
+ODC,Oil-Dri Corp. of America,NYSE
+OKE,ONEOK Inc.,NYSE
+PRGO,Perrigo Company plc,NYSE
+ROL,Rollins Inc.,NYSE
+RSG,Republic Services Inc.,NYSE
+TIF,Tiffany & Company,NYSE
+WHG,Westwood Holdings Group Inc.,NYSE
+XLNX,Xilinx Inc.,NASDAQ
+AAN,Aaron's Inc.,NYSE
+ACU,Acme United Corp.,AMEX
+BBY,Best Buy Corp.,NYSE
+BHB,Bar Harbor Bankshares,AMEX
+COST,Costco Wholesale,NASDAQ
+CPK,Chesapeake Utilities,NYSE
+D,Dominion Energy Inc.,NYSE
+EIX,Edison International,NYSE
+HAS,Hasbro Inc.,NASDAQ
+JBHT,JB Hunt Transport Services Inc.,NASDAQ
+K,Kellogg Company,NYSE
+LMT,Lockheed Martin,NYSE
+LNN,Lindsay Corp.,NYSE
+LNT,Alliant Energy Corp.,NASDAQ
+NHC,National Healthcare Corp.,AMEX
+NOC,Northrop Grumman,NYSE
+OHI,Omega Healthcare Investors,NYSE
+OXY,Occidental Petroleum,NYSE
+QCOM,Qualcomm Inc.,NASDAQ
+RGCO,RGC Resources Inc.,NASDAQ
+RHI,Robert Half International Inc.,NYSE
+SLGN,Silgan Holdings Inc.,NASDAQ
+SR,Spire Inc.,NYSE
+SRE,Sempra Energy,NYSE
+UTMD,Utah Medical Products Inc.,NASDAQ
+VSEC,VSE Corp.,NASDAQ
+WEC,WEC Energy Group Inc.,NYSE
+WLK,Westlake Chemical Corp.,NYSE
+WM,Waste Management,NYSE
+XEL,Xcel Energy,NASDAQ
+AEL,American Equity Investment Life Holding Co.,NYSE
+AIZ,Assurant Inc.,NYSE
+AMP,Ameriprise Financial Inc.,NYSE
+BMRC,Bank of Marin Bancorp,NASDAQ
+CSX,CSX Corp.,NASDAQ
+DLR,Digital Realty Trust,NYSE
+DUK,Duke Energy Corp.,NYSE
+ELS,Equity LifeStyle Properties,NYSE
+FMAO,Farmers and Merchants Bancorp,NASDAQ
+GIS,General Mills,NYSE
+HEP,Holly Energy Partners LP,NYSE
+HWKN,Hawkins Inc.,NASDAQ
+JJSF,J&J Snack Foods Corp.,NASDAQ
+LSTR,Landstar System Inc.,NASDAQ
+MNRO,Monro Inc.,NASDAQ
+NWE,NorthWestern Corp.,NYSE
+R,Ryder System,NYSE
+RBC,Regal Beloit Corp.,NYSE
+RTN,Raytheon Company,NYSE
+STE,Steris plc,NYSE
+TPL,Texas Pacific Land Trust,NYSE
+TRV,Travelers Companies,NYSE
+TXN,Texas Instruments,NASDAQ
+ABC,AmerisourceBergen Corp.,NYSE
+ACN,Accenture plc,NYSE
+AMNF,Armanino Foods of Distinction Inc.,
+APU,AmeriGas Partners LP,NYSE
+BOKF,BOK Financial Corp.,NASDAQ
+CMI,Cummins Inc.,NYSE
+CNP,CenterPoint Energy,NYSE
+EVRG,Evergy Inc,NYSE
+GL,Globe Life Inc,NYSE
+HONT,Honat Bancorp Inc.,
+ISCA,International Speedway Corp.,NASDAQ
+KR,Kroger Company,NYSE
+NEU,NewMarket Corp.,NYSE
+POR,Portland General Electric Co.,NYSE
+THG,Hanover Insurance Group (The),NYSE
+VZ,Verizon Communications,NYSE
+WSM,Williams-Sonoma Inc.,NYSE
+AFG,American Financial Group Inc.,NYSE
+BR,Broadridge Financial Solutions Inc.,NYSE
+CMS,CMS Energy Corp.,NYSE
+COLM,Columbia Sportswear Co.,NASDAQ
+EAT,Brinker International,NYSE
+ET,Energy Transfer LP,NYSE
+EVR,Evercore Partners Inc.,NYSE
+ISBA,Isabella Bank Corp.,
+SWX,Southwest Gas Corp.,NYSE
+SXT,Sensient Technologies Corp.,NYSE
+UNP,Union Pacific,NYSE
+AWK,American Water Works,NYSE
+BIP,Brookfield Infrastructure Partners LP,NYSE
+CMCSA,Comcast Corp.,NASDAQ
+ENSG,Ensign Group Inc.,NASDAQ
+FFMR,First Farmers Financial Corp.,
+FNV,Franco-Nevada Corp.,NYSE
+HEI,HEICO Corp.,NYSE
+HI,Hillenbrand Inc.,NYSE
+HIFS,Hingham Institution for Savings,NASDAQ
+KWR,Quaker Chemical Corp.,NYSE
+LAZ,Lazard Limited,NYSE
+MCK,McKesson Corp.,NYSE
+OGE,OGE Energy Corp.,NYSE
+QNTO,Quaint Oak Bancorp Inc.,
+CHE,Chemed Corp.,NYSE
+HUBB,Hubbell Inc.,NYSE
+LMNR,Limoneira Company,NASDAQ
+MKTX,MarketAxess Holdings Inc.,NASDAQ
+ORCL,Oracle Corp.,NYSE
+PFG,Principal Financial Group Inc.,NASDAQ
+PM,Philip Morris International,NYSE
+PRU,Prudential Financial Inc.,NYSE
+RGA,Reinsurance Group of America Inc.,NYSE
+UNM,Unum Group,NYSE
+V,Visa Inc.,NYSE
+AIT,Applied Industrial Technologies Inc.,NYSE
+ASH,Ashland Global Holdings Inc.,NYSE
+ATVI,Activision Blizzard Inc.,NASDAQ
+BCPC,Balchem Inc.,NASDAQ
+BEP,Brookfield Renewable Partners LP,NYSE
+BLK,BlackRock Inc.,NYSE
+BMY,Bristol-Myers Squibb Co.,NYSE
+CBOE,CBOE Holdings Inc.,NASDAQ
+CE,Celanese Corp.,NYSE
+CHS,Chico's FAS Inc.,NYSE
+CMA,Comerica Inc.,NYSE
+CMD,Cantel Medical Corp.,NYSE
+CNS,Cohen & Steers Inc.,NYSE
+COR,CoreSite Realty Corp.,NYSE
+DTE,DTE Energy Company,NYSE
+ETN,Eaton Corp. plc,NYSE
+EXR,Extra Space Storage Inc.,NYSE
+FIBK,First Interstate Bancsystem Inc.,NASDAQ
+GPI,Group 1 Automotive Inc.,NYSE
+HD,Home Depot Inc.,NYSE
+HMN,Horace Mann Educators Corp.,NYSE
+HSY,Hershey Company,NYSE
+HVT,Haverty Furniture Companies Inc.,NYSE
+IBOC,International Bancshares Corp.,NASDAQ
+IEX,IDEX Corp.,NYSE
+IPAR,Inter Parfums Inc.,NASDAQ
+IVZ,Invesco Limited,NYSE
+LAD,Lithia Motors Inc.,NYSE
+LFUS,Littelfuse Inc.,NASDAQ
+LII,Lennox International Inc.,NYSE
+MAR,Marriott International Inc.,NASDAQ
+MCO,Moody's Corp.,NYSE
+MMC,Marsh & McLennan Companies Inc.,NYSE
+NRIM,Northrim BanCorp Inc.,NASDAQ
+NWBI,Northwest Bancshares Inc.,NASDAQ
+OMC,Omnicom Group Inc.,NYSE
+PETS,PetMed Express Inc.,NASDAQ
+PLOW,Douglas Dynamics Inc.,NYSE
+PNBI,Pioneer Bankshares Inc.,
+PRI,Primerica Inc.,NYSE
+RECN,Resources Connection Inc.,NASDAQ
+ROIC,Retail Opportunity Investments Corp.,NASDAQ
+SMG,Scotts Miracle-Gro Company,NYSE
+SMP,Standard Motor Products Inc.,NYSE
+SPG,Simon Property Group Inc.,NYSE
+SYBT,Stock Yards Bancorp Inc.,NASDAQ
+TCO,Taubman Centers Inc.,NYSE
+TSCO,Tractor Supply Company,NASDAQ
+TTC,Toro Company,NYSE
+UFS,Domtar Corp.,NYSE
+UNH,UnitedHealth Group Inc.,NYSE
+UPS,United Parcel Service Inc.,NYSE
+WDFC,WD-40 Company,NASDAQ
+WEN,Wendy's Company,NASDAQ
+WINA,Winmark Corp.,NASDAQ
+WRK,WestRock Company,NYSE
+WYND,Wyndham Destinations Inc.,NYSE
+AEP,American Electric Power Co.,NYSE
+AIV,Apartment Investment & Management Co.,NYSE
+AJG,Arthur J. Gallagher & Co.,NYSE
+ALE,Allete Inc.,NYSE
+ALL,Allstate Corp.,NYSE
+ALV,Autoliv Inc.,NYSE
+AMGN,Amgen Inc.,NASDAQ
+AMT,American Tower Corp.,NYSE
+AMTD,TD Ameritrade Holding Corp.,NASDAQ
+ANTM,Anthem Inc.,NYSE
+APTS,Preferred Apartment Communities Inc.,NYSE
+ARE,Alexandria Real Estate Equities Inc.,NYSE
+ATLO,Ames National Corp.,NASDAQ
+AUB,Atlantic Union Bankshares Corp.,NASDAQ
+AVGO,Broadcom Limited,NASDAQ
+AVX,AVX Corp.,NYSE
+AVY,Avery Dennison Corp.,NYSE
+BBT,BB&T Corp.,NYSE
+BK,Bank of New York Mellon Corp.,NYSE
+BKSC,Bank of South Carolina Corp.,NASDAQ
+BMTC,Bryn Mawr Bank Corp.,NASDAQ
+CME,CME Group Inc.,NASDAQ
+COLB,Columbia Banking System Inc.,NASDAQ
+CPT,Camden Property Trust,NYSE
+CSCO,Cisco Systems Inc.,NASDAQ
+CUBE,CubeSmart,NYSE
+CVLY,Codorus Valley Bancorp Inc.,NASDAQ
+DDS,Dillard's Inc.,NYSE
+DEI,Douglas Emmett Inc.,NYSE
+DFS,Discover Financial Services,NYSE
+DIS,Walt Disney Company,NYSE
+EE,El Paso Electric Co.,NYSE
+EL,Estee Lauder Companies Inc.,NYSE
+EMCF,Emclaire Financial Corp.,NASDAQ
+EMCI,EMC Insurance Group Inc.,NASDAQ
+EMN,Eastman Chemical Co.,NYSE
+EPR,EPR Properties,NYSE
+ESCA,Escalade Inc.,NASDAQ
+FAF,First American Financial Corp.,NYSE
+FDEF,First Defiance Financial Corp.,NASDAQ
+FFG,FBL Financial Group Inc.,NYSE
+FFIN,First Financial Bankshares Inc.,NASDAQ
+FISI,Financial Institutions Inc.,NASDAQ
+FITB,Fifth Third Bancorp,NASDAQ
+FL,Foot Locker Inc.,NYSE
+FLIR,Flir Systems Inc.,NASDAQ
+GATX,GATX Corp.,NYSE
+GIL,Gildan Activewear Inc.,NYSE
+GLW,Corning Inc.,NYSE
+GNTX,Gentex Corp.,NASDAQ
+GS,Goldman Sachs Group Inc.,NYSE
+HBAN,Huntington Bancshares Inc.,NASDAQ
+HBNC,Horizon Bancorp,NASDAQ
+HFWA,Heritage Financial Corp.,NASDAQ
+HNI,HNI Corp.,NYSE
+HOG,Harley-Davidson Inc.,NYSE
+HOMB,Home Bancshares Inc.,NASDAQ
+HPQ,HP Inc.,NYSE
+HRC,Hill-Rom Holdings Inc.,NYSE
+HUM,Humana Inc.,NYSE
+HVT-A,Haverty Furniture Companies Inc. A,
+INDB,Independent Bancorp MA,NASDAQ
+INTU,Intuit Inc.,NASDAQ
+IP,International Paper Co.,NYSE
+IRM,Iron Mountain Inc.,NYSE
+JCOM,j2 Global Inc.,NASDAQ
+JLL,Jones Lang Lasalle,NYSE
+JPM,JPMorgan Chase & Co.,NYSE
+KEY,KeyCorp,NYSE
+KLAC,KLA-Tencor Corp.,NASDAQ
+KSS,Kohl's Corp.,NYSE
+KW,Kennedy-Wilson Holdings Inc.,NYSE
+LBAI,Lakeland Bancorp Inc.,NASDAQ
+LEA,Lear Corp.,NYSE
+LM,Legg Mason Inc.,NYSE
+LMAT,LeMaitre Vascular Inc.,NASDAQ
+LNC,Lincoln National Corp.,NYSE
+LTXB,LegacyTexas Financial Group Inc.,NASDAQ
+LYB,LyondellBasell Industries NV,NYSE
+MAA,Mid-America Apartment Communities Inc.,NYSE
+MAC,Macerich Company,NYSE
+MAIN,Main Street Capital Corp.,NYSE
+MAN,ManpowerGroup Inc.,NYSE
+MEOH,Methanex Corp.,NASDAQ
+MGA,Magna International Inc.,NYSE
+MLGF,Malaga Financial Corp.,
+MOFG,MidWest One Financial Group Inc.,NASDAQ
+MORN,Morningstar Inc.,NASDAQ
+MPC,Marathon Petroleum Corp.,NYSE
+MSI,Motorola Solutions Inc.,NYSE
+MTN,Vail Resorts Inc.,NYSE
+NP,Neenah Paper Inc.,NYSE
+NSP,Insperity Inc.,NYSE
+OXM,Oxford Industries Inc.,NYSE
+PAG,Penske Automotive Group Inc.,NYSE
+PAYX,Paychex Inc.,NASDAQ
+PCAR,Paccar Inc.,NASDAQ
+PDCO,Patterson Companies Inc.,NASDAQ
+PFE,Pfizer Inc.,NYSE
+PFS,Provident Financial Services Inc.,NYSE
+PNC,PNC Financial Services Group Inc.,NYSE
+POL,PolyOne Corp.,NYSE
+POOL,Pool Corp.,NASDAQ
+QNBC,QNB Corp.,
+ROK,Rockwell Automation Inc.,NYSE
+RS,Reliance Steel & Aluminum Co.,NYSE
+SASR,Sandy Spring Bancorp Inc.,NASDAQ
+SBUX,Starbucks Corp.,NASDAQ
+SCI,Service Corp International,NYSE
+SCS,Steelcase Inc.,NYSE
+SIX,Six Flags Entertainment Corp.,NYSE
+SNA,Snap-on Inc.,NYSE
+SOHO,Sotherly Hotels Inc.,NASDAQ
+SPTN,SpartanNash Company,NASDAQ
+STAG,STAG Industrial Inc.,NYSE
+STI,SunTrust Banks Inc.,NYSE
+STLD,Steel Dynamics Inc.,NASDAQ
+TBNK,Territorial Bancorp,NASDAQ
+THO,Thor Industries Inc.,NYSE
+TILE,Interface Inc.,NASDAQ
+TRN,Trinity Industries Inc.,NYSE
+TRNO,Terreno Realty Corp.,NYSE
+TXRH,Texas Roadhouse Inc.,NASDAQ
+UDR,UDR Inc.,NYSE
+USPH,US Physical Therapy Inc.,NYSE
+VLO,Valero Energy Corp.,NYSE
+VTR,Ventas Inc.,NYSE
+WAFD,Washington Federal Inc.,NASDAQ
+WASH,Washington Trust Bancorp Inc.,NASDAQ
+WBS,Webster Financial Corp.,NYSE
+WCN,Waste Connections Inc.,NYSE
+WFC,Wells Fargo & Co.,NYSE
+WHR,Whirlpool Corp.,NYSE
+WMPN,William Penn Bancorp Inc.,
+WOR,Worthington Industries Inc.,NYSE
+WPP,WPP plc,NYSE
+WSBC,WesBanco Inc.,NASDAQ
+WTBA,West Bancorp Inc.,NASDAQ
+XYL,Xylem Inc.,NYSE
+A,Agilent Technologies Inc.,NYSE
+AAPL,Apple Inc.,NASDAQ
+AAT,American Assets Trust Inc.,NYSE
+ABR,Arbor Realty Trust Inc.,NYSE
+AES,AES Corp.,NYSE
+AGM,Federal Agricultural Mortgage Corp.,NYSE
+AGO,Assured Guaranty Ltd.,NYSE
+AON,Aon plc,NYSE
+APH,Amphenol Corp.,NYSE
+APLO,Apollo Bancorp Inc.,
+APOG,Apogee Enterprises Inc.,NASDAQ
+AVB,Avalonbay Communities Inc.,NYSE
+AYR,Aircastle Limited,NYSE
+B,Barnes Group Inc.,NYSE
+BA,Boeing Company,NYSE
+BAH,Booz Allen Hamilton Holding Corp.,NYSE
+BAM,Brookfield Asset Management Inc.,NYSE
+BGS,B&G Foods Inc.,NYSE
+BSET,Bassett Furniture Industries Inc.,NASDAQ
+CAKE,Cheesecake Factory Inc.,NASDAQ
+CBT,Cabot Corp.,NYSE
+CCOI,Cogent Communications Holdings Inc.,NASDAQ
+CFFI,C&F Financial Corp.,NASDAQ
+CHDN,Churchill Downs Inc.,NASDAQ
+CIVB,Civista Bancshares Inc.,NASDAQ
+CNO,CNO Financial Group Inc.,NYSE
+CORE,Core-Mark Holding Company,NASDAQ
+CULP,Culp Inc.,NYSE
+DGX,Quest Diagnostics Inc.,NYSE
+DNKN,Dunkin' Brands Group Inc.,NASDAQ
+DOX,Amdocs Limited,NASDAQ
+EGP,EastGroup Properties Inc.,NYSE
+EQM,EQT Midstream Partners LP,NYSE
+EVBN,Evans Bancorp Inc.,AMEX
+EXPE,Expedia Inc.,NASDAQ
+FCBC,First Community Bancshares Inc.,NASDAQ
+FHN,First Horizon Narional Corp.,NYSE
+FLXS,Flexsteel Industries Inc.,NASDAQ
+FMBH,First Mid-Illinois Bancshares Inc.,NASDAQ
+FNF,Fidelity National Financial Inc.,NYSE
+FRC,First Republic Bank,NYSE
+FRME,First Merchants Corp.,NASDAQ
+FUN,Cedar Fair LP,NYSE
+GBCI,Glacier Bancorp Inc.,NASDAQ
+GEO,GEO Group Inc.,NYSE
+GFF,Griffon Corp.,NYSE
+HIG,Hartford Financial Services Group Inc.,NYSE
+HON,Honeywell International Inc.,NYSE
+HPT,Hospitality Properties Trust,NASDAQ
+HTA,Healthcare Trust of America Inc.,NYSE
+HWBK,Hawthorn Bancshares Inc.,NASDAQ
+HY,Hyster-Yale Materials Handling Inc.,NYSE
+INGR,Ingredion Inc.,NYSE
+IR,Ingersoll-Rand plc,NYSE
+KALU,Kaiser Aluminum Corp.,NASDAQ
+KIM,Kimco Realty Corp.,NYSE
+LKFN,Lakeland Financial Corp.,NASDAQ
+LUV,Southwest Airlines Co.,NYSE
+LVS,Las Vegas Sands Corp.,NYSE
+MA,MasterCard Inc.,NYSE
+MATX,Matson Inc.,NYSE
+MBWM,Mercantile Bank Corp.,NASDAQ
+MDLZ,Mondelez International Inc.,NASDAQ
+MKSI,MKS Instruments Inc.,NASDAQ
+MLHR,Herman Miller Inc.,NASDAQ
+MRK,Merck & Company,NYSE
+NDAQ,Nasdaq Inc.,NASDAQ
+NI,NiSource Inc.,NYSE
+NTRS,Northern Trust Corp.,NASDAQ
+OLP,One Liberty Properties Inc.,NYSE
+PEG,Public Service Enterprise Group Inc.,NYSE
+PKG,Packaging Corp of America,NYSE
+PNM,PNM Resources Inc.,NYSE
+PPBN,Pinnacle Bankshares Corp.,
+PROV,Provident Financial Holdings Inc.,NASDAQ
+PSX,Phillips 66,NYSE
+RCL,Royal Caribbean Cruises Ltd.,NYSE
+RMD,ResMed Inc.,NYSE
+SBGI,Sinclair Broadcast Group Inc.,NASDAQ
+SBRA,Sabra Health Care REIT Inc.,NASDAQ
+SCVL,Shoe Carnival Inc.,NASDAQ
+SFNC,Simmons First National Corp.,NASDAQ
+SIG,Signet Jewelers Limited,NYSE
+SLG,SL Green Realty Corp.,NYSE
+SMBC,Southern Missouri Bancorp Inc.,NASDAQ
+SOMC,Southern Michigan Bancorp Inc.,
+SSB,South State Corp.,NASDAQ
+STT,State Street Corp.,NYSE
+SXI,Standex International Inc.,NYSE
+TCF,TCF Financial Corp.,NASDAQ
+TOWN,Towne Bank,NASDAQ
+TYBT,Trinity Bank NA,
+UMPQ,Umpqua Holdings Corp.,NASDAQ
+USB,U.S. Bancorp,NYSE
+WAB,Westinghouse Air Brake Technologies Corp.,NYSE
+WLTW,Willis Towers Watson plc,NASDAQ
+WRI,Weingarten Realty Investors,NYSE
+WY,Weyerhaeuser Company,NYSE
+XRAY,Dentsply Sirona Inc.,NASDAQ
+ABBV,AbbVie Inc.,NYSE
+ACC,American Campus Communities,NYSE
+ADC,Agree Realty Corp.,NYSE
+AGCO,AGCO Corp.,NYSE
+AHH,Armada Hoffler Properties Inc.,NYSE
+AIMC,Altra Industrial Motion Corp.,NASDAQ
+AL,Air Lease Corp.,NYSE
+ALK,Alaska Air Group Inc.,NYSE
+AMSF,Amerisafe Inc.,NASDAQ
+ARGO,Argo Group International Holdings Ltd.,NYSE
+ASB,Associated Banc-Corp,NYSE
+AVT,Avnet Inc.,NASDAQ
+AXP,American Express Company,NYSE
+BANR,Banner Corp.,NASDAQ
+BORT,Bank of Botetourt,
+BPY,Brookfield Property Partners LP,NASDAQ
+BSRR,Sierra Bancorp,NASDAQ
+BXS,BancorpSouth Inc.,NYSE
+CARO,Carolina Financial Corp,NASDAQ
+CHCO,City Holding Co.,NASDAQ
+CLDB,Cortland Bancorp,NASDAQ
+CONE,CyrusOne Inc.,NASDAQ
+CPF,Central Pacific Financial Corp.,NYSE
+CRI,Carter's Inc.,NYSE
+CSGS,CSG Systems International Inc.,NASDAQ
+CTO,Consolidated-Tomoka Land Co.,AMEX
+CVBF,CVB Financial Corp.,NASDAQ
+CVGW,Calavo Growers Inc.,NASDAQ
+DAL,Delta Air Lines Inc.,NYSE
+DKL,Delek Logistics Partners LP,NYSE
+DPZ,Domino's Pizza Inc.,NYSE
+EHC,Encompass Health Corp.,NYSE
+EXPO,Exponent Inc.,NASDAQ
+EXSR,Exchange Bank (Santa Rosa CA),
+FBHS,Fortune Brands Home & Security,NYSE
+FBIZ,First Business Financial Services Inc.,NASDAQ
+FBVA,Farmers Bankshares Inc.,
+FCCO,First Community Corp.,NASDAQ
+FIX,Comfort Systems USA Inc.,NYSE
+FMBI,First Midwest Bancorp,NASDAQ
+FMBM,F&M Bank Corp.,
+FORR,Forrester Research Inc.,NASDAQ
+FR,First Industrial Realty Trust Inc.,NYSE
+FSBW,FS Bancorp Inc.,NASDAQ
+GABC,German American Bancorp,NASDAQ
+GAIN,Gladstone Investment Corp.,NASDAQ
+GTY,Getty Realty Corp.,NYSE
+HII,Huntington Ingalls Industries Inc.,NYSE
+HLAN,Heartland BanCorp,
+HOPE,Hope Bancorp Inc.,NASDAQ
+HTBK,Heritage Commerce Corp.,NASDAQ
+HURC,Hurco Companies Inc.,NASDAQ
+ICE,Intercontinental Exchange Inc.,NYSE
+IDA,Idacorp Inc.,NYSE
+IPG,Interpublic Group of Companies Inc.,NYSE
+ISBC,Investors Bancorp,NASDAQ
+ITT,ITT Corp.,NYSE
+JCI,Johnson Controls International plc,NYSE
+KAI,Kadant Inc.,NYSE
+KSU,Kansas City Southern,NYSE
+LZB,La-Z-Boy Inc.,NYSE
+MET,MetLife Inc.,NYSE
+MPLX,MPLX LP,NYSE
+MTRN,Materion Corp.,NYSE
+NFBK,Northfield Bancorp Inc.,NASDAQ
+NTAP,NetApp Inc.,NASDAQ
+NVDA,NVIDIA Corp.,NASDAQ
+NXST,Nexstar Media Group Inc.,NASDAQ
+OTEX,Open Text Corp.,NASDAQ
+PEBK,Peoples Bancorp of North Carolina,NASDAQ
+PNW,Pinnacle West Capital Corp.,NYSE
+POWI,Power Integrations Inc.,NASDAQ
+PPLL,Peoples Ltd.,
+PRIM,Primoris Services Corporation,NASDAQ
+PSXP,Phillips 66 Partners LP,NYSE
+RF,Regions Financial Corp.,NYSE
+RHP,Ryman Hospitality Properties Inc.,NYSE
+RJF,Raymond James Financial Inc.,NYSE
+RUTH,Ruth's Hospitality Group Inc.,NASDAQ
+SBFG,SB Financial Group Inc.,NASDAQ
+SGB,Southwest Georgia Financial Corp.,AMEX
+SGU,Star Group LP,NYSE
+SWM,Schweitzer-Mauduit International Inc.,NYSE
+TCBK,TriCo Bancshares,NASDAQ
+TEL,TE Connectivity Ltd.,NYSE
+TEX,Terex Corp.,NYSE
+TRCB,Two River Bancorp,NASDAQ
+TRUX,Truxton Corp.,
+TSBK,Timberland Bancorp Inc.,NASDAQ
+TSN,Tyson Foods Inc.,NYSE
+TYPE,Monotype Imaging Holdings Inc.,NASDAQ
+UFCS,United Fire Group Inc.,NASDAQ
+UFPI,Universal Forest Products Inc.,NASDAQ
+UNB,Union Bankshares Inc.,NASDAQ
+UNTY,Unity Bancorp Inc.,NASDAQ
+WES,Western Midstream Partners LP,NYSE
+WTBFA,W.T.B. Financial Corp.,
+WTS,Watts Water Technologies Inc.,NYSE
+ZION,Zions Bancorp Inc.,NASDAQ
+ZTS,Zoetis Inc.,NYSE
+ABT,Abbott Laboratories,NYSE
+AKR,Acadia Realty Trust,NYSE
+ALLE,Allegion plc,NYSE
+BAC,Bank of America Corp,NYSE
+BC,Brunswick Corp.,NYSE
+BFS,Saul Centers Inc.,NYSE
+BPFH,Boston Private Financial Holdings Inc.,NASDAQ
+BRX,Brixmor Property Group,NYSE
+BUSE,First Busey Corp.,NASDAQ
+BWA,BorgWarner Inc.,NYSE
+CATY,Cathay General Bancorp,NASDAQ
+CCBG,Capital City Bank Group,NASDAQ
+CDW,CDW Corp.,NASDAQ
+CFG,Citizens Financial Group Inc.,NYSE
+CTRE,CareTrust REIT Inc.,NASDAQ
+CWBC,Community West Bancshares,NASDAQ
+CZWI,Citizens Community Bancorp Inc.,NASDAQ
+DHR,Danaher Corp.,NYSE
+EVC,Entravision Communications Corp.,NYSE
+FFIC,Flushing Financial Corp.,NASDAQ
+FNLC,First Bancorp Inc.,NASDAQ
+FSFG,First Savings Financial Group Inc.,NASDAQ
+FXNC,First National Corp.,NASDAQ
+GFED,Guaranty Federal Bancshares,NASDAQ
+GLOP,GasLog Partners LP,NYSE
+GLT,P.H. Glatfelter Co.,NYSE
+GT,Goodyear Tire & Rubber Company,NASDAQ
+HAFC,Hanmi Financial Corp.,NASDAQ
+HBCP,Home Bancorp Inc.,NASDAQ
+HCKT,The Hackett Group Inc.,NASDAQ
+HFBL,Home Federal Bancorp Inc. of Louisiana,NASDAQ
+HNNA,Hennessy Advisors Inc.,NASDAQ
+IBCP,Independent Bank Corp. MI,NASDAQ
+IBTX,Independent Bank Group Inc.,NASDAQ
+IDCC,Interdigital Inc,NASDAQ
+IHC,Independence Holding Company,NYSE
+IOSP,Innospec Inc.,NASDAQ
+ISTR,Investar Holding Corp.,NASDAQ
+JOUT,Johnson Outdoors Inc.,NASDAQ
+KAR,KAR Auction Services Inc.,NYSE
+KEQU,Kewaunee Scientific Corp.,NASDAQ
+LAMR,Lamar Advertising Co.,NASDAQ
+LOAN,Manhattan Bridge Capital Inc.,NASDAQ
+LOGN,Logansport Financial Corp.,
+LRCX,Lam Research Corp.,NASDAQ
+LSI,Life Storage Inc.,NYSE
+MC,Moelis & Company,NYSE
+MCS,Marcus Corp.,NYSE
+MFNC,Mackinac Financial Corp.,NASDAQ
+MINI,Mobile Mini Inc.,NASDAQ
+MNAT,Marquette National Corp.,
+MPB,Mid Penn Bancorp,NASDAQ
+MPW,Medical Properties Trust Inc.,NYSE
+MS,Morgan Stanley,NYSE
+MSCI,MSCI Inc.,NYSE
+NATI,National Instruments Corp.,NASDAQ
+NBTB,NBT Bancorp Inc.,NASDAQ
+NEP,NextEra Energy Partners LP,NYSE
+NLSN,Nielsen Holdings plc,NYSE
+NRZ,New Residential Investment Corp.,NYSE
+OC,Owens Corning Inc.,NYSE
+OGS,ONE Gas Inc.,NYSE
+OLBK,Old Line Bancshares Inc.,NASDAQ
+OSK,Oshkosh Corp.,NYSE
+OTTR,Otter Tail Corp.,NASDAQ
+OVLY,Oak Valley Bancorp,NASDAQ
+PBFX,PBF Logistics LP,NYSE
+PFBC,Preferred Bank,NASDAQ
+PKBK,Parke Bancorp Inc.,NASDAQ
+PLCE,Children's Place Inc. (The),NASDAQ
+PLD,Prologis Inc.,NYSE
+PTBS,Potomac Bancshares Inc.,
+PZZA,Papa John's International,NASDAQ
+QTS,QTS Realty Trust Inc.,NYSE
+RE,Everest Reinsurance Group Ltd.,NYSE
+REG,Regency Centers Corp.,NASDAQ
+REXR,Rexford Industrial Realty Inc.,NYSE
+RMAX,RE/MAX Holdings Inc.,NYSE
+SAFM,Sanderson Farms Inc.,NASDAQ
+SFBC,Sound Financial Bancorp Inc.,NASDAQ
+SFBS,ServisFirst Bancshares Inc.,NASDAQ
+SHEN,Shenandoah Telecommunications,NASDAQ
+SNV,Synovus Financial,NYSE
+SNX,SYNNEX Corp.,NYSE
+SSD,Simpsom Manufacturing Co.,NYSE
+STAY,Extended Stay America Inc.,NASDAQ
+STBA,S&T Bancorp Inc.,NASDAQ
+SWKS,Skyworks Solutions Inc.,NASDAQ
+TFSL,TFS Financial Corporation,NASDAQ
+TTEK,Tetra Tech Inc.,NASDAQ
+UBCP,United Bancorp Inc.,NASDAQ
+UCBI,United Community Banks Inc.,NASDAQ
+UCFC,United Community Financial Corp.,NASDAQ
+VAC,Marriot Vacations Worldwide Corp.,NYSE
+VMC,Vulcan Materials,NYSE
+WDFN,Woodlands Financial Services Co.,
+WEBK,Wellesley Bancorp Inc.,NASDAQ
+WLKP,Westlake Chemical Partners LP,NYSE
+WMS,Advanced Drainage Systems Inc.,NYSE
+WSFS,WSFS Financial Corp.,NASDAQ
+WSO,Watsco Inc.,NYSE
+WTFC,Wintrust Financial Corp.,NASDAQ
+AEE,Ameren Corp,NYSE
+ALG,Alamo Group Inc,NYSE
+ALX,Alexander's Inc.,NYSE
+ARMK,Aramark Services Inc.,NYSE
+BDL,Flanigan's Enterprises Inc.,AMEX
+BFIN,BankFinancial Corp.,NASDAQ
+BHLB,Berkshire Hills Bancorp Inc.,NYSE
+BIG,Big Lots Inc.,NYSE
+BLMN,Bloomin' Brands Inc.,NASDAQ
+BWFG,Bankwell Financial Group Inc.,NASDAQ
+C,Citigroup Inc,NYSE
+CCI,Crown Castle International Corp,NYSE
+CDK,CDK Global Inc,NASDAQ
+CHCT,Community Healthcare Trust Inc.,NYSE
+CSFL,CenterState Bank Corp.,NASDAQ
+DG,Dollar General Corp.,NYSE
+DHI,D.R. Horton Inc,NYSE
+DHIL,Diamond Hill Investment Group Inc.,NASDAQ
+DKS,Dicks Sporting Goods Inc.,NYSE
+DLB,Dolby Laboratories Inc,NYSE
+EFSC,Enterprise Financial Services Corp,NASDAQ
+EQIX,Equinix Inc.,NASDAQ
+EVA,Enviva Partners  LP,NYSE
+FRAF,Franklin Financial Services Inc.,NASDAQ
+FSV,FirstService Corp.,NASDAQ
+FULT,Fulton Financial Corp.,NASDAQ
+GBX,Greenbrier Companies Inc.,NYSE
+GILD,Gilead Sciences Inc.,NASDAQ
+GLPI,Gaming and Leisure Properties,NASDAQ
+GSBC,Great Southern Bancorp Inc.,NASDAQ
+GWB,Great Western Bancorp Inc.,NYSE
+HLI,"Houlihan Lokey, Inc.",NYSE
+HMLP,Hoegh LNG Partners LP,NYSE
+INN,Summit Hotel Properties Inc.,NYSE
+INTC,Intel Corp.,NASDAQ
+KBAL,Kimball International Inc.,NASDAQ
+KRG,Kite Realty Group Trust,NYSE
+LAND,Gladstone Land Corp.,NASDAQ
+LLY,Eli Lilly & Company,NYSE
+LOGI,Logitech International,NASDAQ
+MAS,Masco Corp,NYSE
+MCBC,Macatawa Bank Corp.,NASDAQ
+MFC,Manulife Financial Corporation,NYSE
+MFSF,MutualFirst Financial Inc.,NASDAQ
+MPX,Marine Products Corp.,NYSE
+NASB,NASB Financial Inc.,
+NEWM,New Media,NYSE
+NHTC,Natural Health Trends Corp.,NASDAQ
+NPO,Enpro Industries Inc.,NYSE
+OCFC,OceanFirst Financial Corp,NASDAQ
+ORRF,Orrstown Financial Services Inc.,NASDAQ
+PEGI,Pattern Energy Group Inc.,NASDAQ
+PSB,PS Business Parks Inc,NYSE
+PUB,People's Utah Bancorp,NASDAQ
+QSR,Restaurant Brands International Inc.,NYSE
+RVSB,Riverview Bancorp Inc,NASDAQ
+SAR,Saratoga Investment Corp.,NYSE
+SGC,Superior Group of Companies Inc.,NASDAQ
+SHLX,Shell Midstream Partners LP,NYSE
+SIGI,Selective Insurance Group Inc.,NASDAQ
+SRLP,Sprague Resources LP,NYSE
+STBI,Sturgis Bancorp,
+STZ,Constellation Brands Inc. A,NYSE
+TGE,Tallgrass Energy LP,NYSE
+TKR,Timken Company (The),NYSE
+TTEC,TTEC Holdings Inc.,NASDAQ
+USDP,USD Partners LP,NYSE
+UTL,Unitil Corp.,NYSE
+VALU,Value Line Inc.,NASDAQ
+WU,Western Union Company,NYSE
+WWD,Woodward Inc.,NASDAQ
+AA,Alcoa Corporation,NYSE
+AAL,"American Airlines Group, Inc.",NASDAQ
+ADBE,Adobe Inc.,NASDAQ
+AMD,"Advanced Micro Devices, Inc.",NASDAQ
+AMZN,"Amazon.com, Inc.",NASDAQ
+AXTA,Axalta Coating Systems Ltd.,NYSE
+AYX,"Alteryx, Inc.",NYSE
+BRK.B,Berkshire Hathaway Inc.,NYSE
+BTI,British American Tobacco p.l.c.,NYSE
+BSX,Boston Scientific Corporation,NYSE
+CHTR,"Charter Communications, Inc.",NASDAQ
+CRM,Salesforce.com Inc,NYSE
+DE,Deere & Company,NYSE
+DEO,Diageo plc,NYSE
+DVA,DaVita Inc.,NYSE
+FB,"Facebook, Inc.",NASDAQ
+FTDR,"frontdoor, inc.",NASDAQ
+GE,General Electric Company,NYSE
+GM,General Motors Company,NYSE
+GOOGL,Alphabet Inc.,NASDAQ
+HAL,Halliburton Company,NYSE
+ISRG,"Intuitive Surgical, Inc.",NASDAQ
+KHC,The Kraft Heinz Company,NASDAQ
+LBTYA,Liberty Global plc,NASDAQ
+LBTYK,Liberty Global plc,NASDAQ
+LILA,Liberty Latin America Ltd.,NASDAQ
+LILAK,Liberty Latin America Ltd.,NASDAQ
+LSXMA,Liberty Media Corporation,NASDAQ
+LSXMK,Liberty Media Corporation,NASDAQ
+MTB,M&T Bank Corporation,NYSE
+MU,"Micron Technology, Inc.",NASDAQ
+NFLX,"Netflix, Inc.",NASDAQ
+NSC,Norfolk Souther Corporation,NYSE
+PETQ,"PetIQ, Inc.",NASDAQ
+PYPL,"PayPal Holdings, Inc.",NASDAQ
+SHAK,"Shake Shack, Inc.",NYSE
+SIRI,Sirius XM Holdings Inc.,NASDAQ
+SPLK,Splunk Inc.,NASDAQ
+STNE,StoneCo Ltd.,NASDAQ
+STOR,STORE Capital Corporation,NYSE
+SU,Suncor Energy  Inc.,NYSE
+SYF,Synchrony Financial,NYSE
+TEVA,Teva Pharmaceutical Industries Limited,NYSE
+TMO,Thermo Fisher Scientific Inc,NYSE
+TPR,"Tapestry, Inc.",NYSE
+TSLA,"Tesla, Inc. ",NASDAQ
+TWTR,"Twitter, Inc.",NYSE
+UAL,"United Airlines Holdings, Inc.",NASDAQ
+UL,Unilever PLC,NYSE
+VRSN,"VeriSign, Inc.",NASDAQ
