@@ -18,9 +18,11 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install wheel
 pip install numpy pandas yfinance
-
-# make directories in Windows
-mkdir $COMMON_DIR/yfk_{csv,meigara,bat}
+deactivate
 
 SCR_DIR=$(cd $(dirname $0); pwd)
+# make directories in Windows
+rm -rf $COMMON_DIR/*
+mkdir $COMMON_DIR/yfk_{csv,meigara,bat}
+
 cp $SCR_DIR/$MEIGARA_CSV $COMMON_DIR/yfk_meigara/
